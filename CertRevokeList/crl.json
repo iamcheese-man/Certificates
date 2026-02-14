@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "generated": "2026-02-14T17:59:27.714017",
+  "revoked_certificates": [
+    {
+      "serial": "01A269DFFC88E78EFCD8D28D8295834F69EDD634",
+      "common_name": "localhost",
+      "revoked_date": "2026-02-14T17:40:42.993568",
+      "reason": "unspecified"
+    }
+  ]
+}
